@@ -1,0 +1,7 @@
+{
+    "python.linting.pylintPath": "${workspaceFolder}/stitcher-venv/bin/pylint",
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "stitcher-venv/bin/python",
+    "python.linting.enabled": true,
+    "python.linting.pylintArgs": ["--extension-pkg-whitelist=cv2"]
+}
